@@ -1,0 +1,13 @@
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy2.deps.json
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy2.runtimeconfig.json
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy2.runtimeconfig.dev.json
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy2.dll
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy2.pdb
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.RazorAssemblyInfo.cache
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.RazorAssemblyInfo.cs
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.AssemblyInfoInputs.cache
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.AssemblyInfo.cs
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.RazorTargetAssemblyInfo.cache
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.dll
+C:\Users\Marcos-PC\Documents\ProjetoAulas\RestWithASP-NETUdemy_2\RestWithASPNETUdemy2\RestWithASPNETUdemy2\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy2.pdb
