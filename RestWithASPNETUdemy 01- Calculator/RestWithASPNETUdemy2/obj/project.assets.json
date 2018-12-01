@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy 01- Calculator\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2.csproj",
       "projectName": "RestWithASPNETUdemy2",
-      "projectPath": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2.csproj",
+      "projectPath": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy 01- Calculator\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2.csproj",
       "packagesPath": "C:\\Users\\Marcos-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy2\\RestWithASPNETUdemy2\\obj\\",
+      "outputPath": "C:\\Users\\Marcos-PC\\Documents\\ProjetoAulas\\RestWithASP-NETUdemy_2\\RestWithASPNETUdemy 01- Calculator\\RestWithASPNETUdemy2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

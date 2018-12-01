@@ -8,38 +8,37 @@ namespace RestWithASPNETUdemy2.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class CalculatorController : ControllerBase
     {
-        // GET api/values
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
         // GET api/values/5
-        [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        [HttpGet("{firstNumber}/{secondNumber}")]
+        public ActionResult<string> Sum(string firstNumber, string secondNumber)
         {
-            return "value";
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Inválid Input");
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
+        private decimal ConvertToDecimal(string number)
         {
+            decimal decimalValue;
+
+            if(decimal.TryParse(number, out decimalValue)) {
+                return decimalValue;
+            }
+
+            return 0;
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        private bool IsNumeric(string strNumber)
         {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            double number;
+            bool isNumber = double.TryParse(strNumber, System.Globalization.NumberStyles.Any, System.Globalization.NumberFormatInfo.InvariantInfo, out number);
+            return isNumber;
         }
     }
 }
